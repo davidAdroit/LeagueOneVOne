@@ -6,6 +6,7 @@ import streamlit
 str.title("League of Legends 1v1 Generator")
 streamlit.title("League of Legends 1v1 Generator")
 streamlit.write("Created by David, the coding mastermind           || discord: airpodenjoyer#9126 |")
+streamlit.write("Link back to main site: https://davidadroit-personalsite-personalwebsite-8fhv1n.streamlit.app/")
 
 streamlit.success("Before generating, decide who is player A and player B")
 champ_pool = ["Ezreal", "Jhin", "Jayce", "Tristana", "Morgana", "Kayle", "Nunu", "Varus", "Malphite", "Yorick", "Maokai", "Ivern", "Annie", "Malzahar", "Anivia", "Aatrox", "Ashe", "Caitlyn", "Brand", "Gragas", "Gangplank", "Garen", "Heiemerdinger", "Illaoi", "Lux", "Ryze", "Syndra"]
